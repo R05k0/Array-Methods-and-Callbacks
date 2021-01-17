@@ -27,7 +27,7 @@ hint - you should be looking at the stage key inside of the objects
 function getFinals(/* code here */) {
    /* code here */
 }
-
+I have no Idea what I am doing 
 
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 3: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
